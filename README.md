@@ -1,6 +1,6 @@
 # 🔮 DEEP LAYER - Multi-Proxy Chain Toolkit 🔗
 
-![Dark Interface Preview](![deep](https://github.com/user-attachments/assets/6d5d671e-16ae-4ffb-a348-2693bbbffebe)
+![Dark Interface Preview]((https://github.com/user-attachments/assets/6d5d671e-16ae-4ffb-a348-2693bbbffebe)
 )
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-black?style=flat&logo=python&logoColor=green)](https://www.python.org/)
