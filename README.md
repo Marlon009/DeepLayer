@@ -1,6 +1,7 @@
 # 🔮 DEEP LAYER - Multi-Proxy Chain Toolkit 🔗
 
-![Dark Interface Preview](https://via.placeholder.com/800x600/111111/00ff00?text=▌DEEP+LAYER+v1.0\n[+]SOCKS5:127.0.0.1:9050\n[+]Tor:onion:9051\n[+]VPN:192.168.1.100:443)
+![Dark Interface Preview](![deep](https://github.com/user-attachments/assets/6d5d671e-16ae-4ffb-a348-2693bbbffebe)
+)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-black?style=flat&logo=python&logoColor=green)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Hacker's_Code-black?style=flat&logo=heart&logoColor=red)](LICENSE)
